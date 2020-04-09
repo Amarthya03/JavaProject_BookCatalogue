@@ -1,0 +1,2 @@
+create table lib (book varchar(10), author varchar(10), month varchar(10), year varchar(5), jc varchar(10), scopus varchar(4), sjr varchar(4));
+insert into lib values ('Diary', 'A. Frank', 'May', '1950', 'Journal', 'Yes', 'No');
